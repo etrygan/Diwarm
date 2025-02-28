@@ -2,15 +2,6 @@
 
 A mobile application that helps users digitally catalog and organize their clothing items by category, making wardrobe management and outfit planning effortless.
 
-## 📷 Screenshots
-
-![Home Screen](screenshots/home1.jpeg)
-
-![Match Item](screenshots/home2.jpeg)
-
-![Add Item](screenshots/home3.jpeg)
-
-
 ## Features
 
 - **Category Organization**: Easily organize clothing into tops, bottoms, and shoes
@@ -19,14 +10,6 @@ A mobile application that helps users digitally catalog and organize their cloth
 - **Easy Deletion**: Remove items with a simple long-press gesture
 - **Persistent Storage**: Your wardrobe data is saved locally on your device
 
-## Tech Stack
-
-- React Native
-- TypeScript
-- Expo
-- AsyncStorage
-- React Hooks
-- Expo Image Picker
 
 ## Installation
 
@@ -53,6 +36,14 @@ npm run android
 npm run ios
 ```
 
+## 📷 Screenshots
+
+![Home Screen](screenshots/home1.jpeg)
+
+![Match Item](screenshots/home2.jpeg)
+
+![Add Item](screenshots/home3.jpeg)
+
 ## Project Structure
 
 ```
@@ -69,6 +60,15 @@ diwarm/
 ├── app.json             # Expo configuration
 └── package.json         # Project dependencies
 ```
+
+## Tech Stack
+
+- React Native
+- TypeScript
+- Expo
+- AsyncStorage
+- React Hooks
+- Expo Image Picker
 
 ## Usage
 
