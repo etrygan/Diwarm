@@ -101,6 +101,6 @@ Will be updated soon.
 
 ## Contact
 
-Your Name - [your.email@example.com](mailto:anuragt1604@gmail.com)
+Your Name - [anuragt1604@gmail.com](mailto:anuragt1604@gmail.com)
 
-Project Link: [https://github.com/yourusername/diwarm](https://github.com/etrygan/diwarm)
+Project Link: [https://github.com/etrygan/diwarm](https://github.com/etrygan/diwarm)
