@@ -19,10 +19,27 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "permissions": [
+        "android.permission.RECORD_AUDIO"
+      ],
+      "package": "com.etrygan.Diwarm"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "The app accesses your photos to let you add them to your wardrobe."
+        }
+      ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "c7a93e14-b5ae-4312-96c5-25a3a41c9fe6"
+      }
     }
   }
 }
