@@ -4,11 +4,11 @@ A mobile application that helps users digitally catalog and organize their cloth
 
 ## 📷 Screenshots
 
-![Home Screen](screenshots/home1.png)
+![Home Screen](screenshots/home1.jpeg)
 
-![Match Item](screenshots/home2.png)
+![Match Item](screenshots/home2.jpeg)
 
-![Add Item](screenshots/home3.png)
+![Add Item](screenshots/home3.jpeg)
 
 
 ## Features
