@@ -97,7 +97,7 @@ diwarm/
 
 ## License
 
-Will be updated soon.
+MIT License.
 
 ## Contact
 
